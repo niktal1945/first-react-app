@@ -1,7 +1,3 @@
-Certainly! Here's a **README.md** file tailored for your [first-react-app](https://github.com/niktal1945/first-react-app) repository:
-
----
-
 # First React App
 
 A basic CRUD (Create, Read, Update, Delete) application built with React for the frontend and Express.js for the backend. It accepts user input through a form and processes it on the server side.
